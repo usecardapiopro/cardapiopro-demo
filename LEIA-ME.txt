@@ -1,0 +1,8 @@
+CARDÁPIOPRO — DEMONSTRAÇÃO
+
+1. Extraia o ZIP e abra index.html no navegador.
+2. Adicione produtos ao carrinho e clique em "Ver carrinho".
+3. Informe o nome, escolha entrega ou retirada no local, informe o endereço se for entrega e escreva uma observação opcional.
+4. Clique em "Enviar pelo WhatsApp". A mensagem é montada com os itens e dados escolhidos.
+5. IMPORTANTE: o restaurante e os dados são fictícios. Antes de usar com um cliente real, substitua o nome, preços, endereço, horários e o número de WhatsApp no index.html.
+6. Produtos usam emojis, sem fotos externas.
