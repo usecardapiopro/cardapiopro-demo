@@ -170,7 +170,7 @@ function sendWhatsApp(){
   const total=cart.reduce((sum,item)=>sum+item.price,0);
   const message=`Olá! Gostaria de fazer este pedido:\n\n${lines}\n\nTotal dos itens: ${money(total)}\nNome: ${name}\nRecebimento: ${type==="delivery"?"Entrega":"Retirada no local"}${type==="delivery"?"\nEndereço: "+address:""}${note?"\nObservação: "+note:""}`;
   // Troque pelo número real do restaurante antes de publicar.
-  const phone="5584999999999";
+  const phone="5584987806122";
   window.open(`https://wa.me/${phone}?text=${encodeURIComponent(message)}`,"_blank","noopener");
 }
 document.getElementById("checkout").addEventListener("click",sendWhatsApp);
